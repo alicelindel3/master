@@ -24,4 +24,4 @@ Section_12　転移学習
 
 Section_13　人工知能アプリの開発
 
-https://github.com/alicelindel3/math (Mathematics For AI)
+Mathfor_AI　https://github.com/alicelindel3/math
