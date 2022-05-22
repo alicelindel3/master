@@ -25,3 +25,5 @@ Section_12　転移学習
 Section_13　人工知能アプリの開発
 
 Mathfor_AI　https://github.com/alicelindel3/math
+
+What's_ML?　 https://business.ntt-east.co.jp/content/cloudsolution/column-166.html
