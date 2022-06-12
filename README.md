@@ -26,7 +26,7 @@ Section_13　人工知能アプリの開発
 
 Mathfor_AI　https://github.com/alicelindel3/math
 
-MusicforAI  https://github.com/alicelindel3/music
+MusicforAI　https://github.com/alicelindel3/music
 
 What's_ML?　https://business.ntt-east.co.jp/content/cloudsolution/column-166.html
 
