@@ -10,7 +10,7 @@ Section_05　ディープラーニングの理論
 
 Section_06　様々な機械学習の手法
 
-Section_07　畳み込みニューラルネットワーク（CNN）
+Section_07　畳み込みニューラルネットワーク（CNN）https://github.com/alicelindel3/image
 
 Section_08　再帰型ニューラルネットワーク（RNN）
 
