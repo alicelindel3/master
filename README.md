@@ -24,9 +24,10 @@ Section_12　転移学習
 
 Section_13　人工知能アプリの開発
 
-Mathfor_AI　https://github.com/alicelindel3/math
+Kaggle　https://github.com/alicelindel3/kaggle
 
-MusicforAI　https://github.com/alicelindel3/music
+Math　https://github.com/alicelindel3/math
+
+Music　https://github.com/alicelindel3/music
 
 What's_ML?　https://business.ntt-east.co.jp/content/cloudsolution/column-166.html
-
