@@ -26,8 +26,8 @@ Section_13　人工知能アプリの開発
 
 Kaggle　https://github.com/alicelindel3/kaggle
 
-Math　https://github.com/alicelindel3/math
+●Math　https://github.com/alicelindel3/math
 
-Music　https://github.com/alicelindel3/music
+●Music　https://github.com/alicelindel3/music
 
 What's_ML?　https://business.ntt-east.co.jp/content/cloudsolution/column-166.html
