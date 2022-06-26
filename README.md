@@ -1,4 +1,5 @@
 # AI Perfect Master
+What's_ML?　https://business.ntt-east.co.jp/content/cloudsolution/column-166.html
 
 Section_02　開発環境
 
@@ -10,7 +11,7 @@ Section_05　ディープラーニングの理論
 
 Section_06　様々な機械学習の手法
 
-Section_07　畳み込みニューラルネットワーク（CNN）https://github.com/alicelindel3/image
+Section_07　畳み込みニューラルネットワーク（CNN）
 
 Section_08　再帰型ニューラルネットワーク（RNN）
 
@@ -24,12 +25,12 @@ Section_12　転移学習
 
 Section_13　人工知能アプリの開発
 
-Kaggle　https://github.com/alicelindel3/kaggle
+●Image　https://github.com/alicelindel3/image
+
+●Kaggle　https://github.com/alicelindel3/kaggle
 
 ●Math　https://github.com/alicelindel3/math
 
 ●Music　https://github.com/alicelindel3/music
 
-Twitter　https://github.com/alicelindel3/twitter
-
-What's_ML?　https://business.ntt-east.co.jp/content/cloudsolution/column-166.html
+●Twitter　https://github.com/alicelindel3/twitter
