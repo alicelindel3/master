@@ -30,6 +30,6 @@ Kaggle　https://github.com/alicelindel3/kaggle
 
 ●Music　https://github.com/alicelindel3/music
 
-●Twitter　https://github.com/alicelindel3/twitter
+Twitter　https://github.com/alicelindel3/twitter
 
 What's_ML?　https://business.ntt-east.co.jp/content/cloudsolution/column-166.html
