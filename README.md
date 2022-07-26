@@ -29,6 +29,8 @@ Section_13　人工知能アプリの開発
 
 ●Kaggle　https://github.com/alicelindel3/kaggle
 
+●NLP　https://github.com/alicelindel3/nlp
+
 ●Math　https://github.com/alicelindel3/math
 
 ●Music　https://github.com/alicelindel3/music
