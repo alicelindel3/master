@@ -25,6 +25,8 @@ Section_12　転移学習
 
 Section_13　人工知能アプリの開発
 
+●BERT　https://github.com/alicelindel3/bert
+
 ●Image　https://github.com/alicelindel3/image
 
 ●Kaggle　https://github.com/alicelindel3/kaggle
