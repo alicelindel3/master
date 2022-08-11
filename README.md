@@ -13,11 +13,11 @@ Section_06　様々な機械学習の手法
 
 Section_07　畳み込みニューラルネットワーク（CNN）
 
-Section_08　再帰型ニューラルネットワーク（RNN）●NLP ●Music
+Section_08　再帰型ニューラルネットワーク（RNN）※NLP ※Music
 
-Section_09　変分オートエンコーダ（VAE）●Music
+Section_09　変分オートエンコーダ（VAE）※Music
 
-Section_10　敵対的生成ネットワーク（GAN）●Music
+Section_10　敵対的生成ネットワーク（GAN）※Music
 
 Section_11　強化学習
 
