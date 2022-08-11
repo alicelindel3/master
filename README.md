@@ -13,7 +13,7 @@ Section_06　様々な機械学習の手法
 
 Section_07　畳み込みニューラルネットワーク（CNN）
 
-Section_08　再帰型ニューラルネットワーク（RNN）
+Section_08　再帰型ニューラルネットワーク（RNN）●NLP(LSTM GRU)
 
 Section_09　変分オートエンコーダ（VAE）
 
