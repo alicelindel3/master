@@ -13,11 +13,11 @@ Section_06　様々な機械学習の手法
 
 Section_07　畳み込みニューラルネットワーク（CNN）
 
-Section_08　再帰型ニューラルネットワーク（RNN）※NLP ※Music
+Section_08　再帰型ニューラルネットワーク（RNN）
 
-Section_09　変分オートエンコーダ（VAE）※Music
+Section_09　変分オートエンコーダ（VAE）
 
-Section_10　敵対的生成ネットワーク（GAN）※Music
+Section_10　敵対的生成ネットワーク（GAN）
 
 Section_11　強化学習
 
@@ -31,10 +31,10 @@ Section_13　人工知能アプリの開発
 
 ●Kaggle　https://github.com/alicelindel3/kaggle
 
-●NLP(RNN LSTM GRU)　https://github.com/alicelindel3/nlp
+●NLP　https://github.com/alicelindel3/nlp
 
 ●Math　https://github.com/alicelindel3/math
 
-●Music(RNN VAE GAN)　https://github.com/alicelindel3/music
+●Music　https://github.com/alicelindel3/music
 
 ●Twitter　https://github.com/alicelindel3/twitter
