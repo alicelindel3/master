@@ -33,6 +33,8 @@ Section_13　人工知能アプリの開発
 
 ●NLP　https://github.com/alicelindel3/nlp
 
+●Novel　https://github.com/alicelindel3/novel
+
 ●Math　https://github.com/alicelindel3/math
 
 ●Music　https://github.com/alicelindel3/music
