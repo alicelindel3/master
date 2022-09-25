@@ -19,7 +19,7 @@ Section_09　変分オートエンコーダ（VAE）
 
 Section_10　敵対的生成ネットワーク（GAN）
 
-Section_11　強化学習
+Section_11　強化学習　!pip install tensorflow==2.2　!pip install keras==2.3　Reboot
 
 Section_12　転移学習　!pip install tensorflow==2.2　!pip install keras==2.3　Reboot
 
