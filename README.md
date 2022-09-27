@@ -23,7 +23,7 @@ Section_11　強化学習　!pip install tensorflow==2.2　!pip install keras==2
 
 Section_12　転移学習　!pip install tensorflow==2.2　!pip install keras==2.3　Reboot
 
-Section_13　人工知能アプリの開発
+Section_13　人工知能アプリの開発　https://jp.heroku.com/
 
 ●BERT　https://github.com/alicelindel3/bert
 
