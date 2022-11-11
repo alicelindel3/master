@@ -1,5 +1,4 @@
 # AI Perfect Master
-[What's_ML?](https://business.ntt-east.co.jp/content/cloudsolution/column-166.html)
 
 Section_01
 
