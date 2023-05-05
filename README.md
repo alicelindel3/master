@@ -1,5 +1,4 @@
 # AI Perfect Master
-## 講座内容
 
 Section_01　素材
 
