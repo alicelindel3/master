@@ -26,6 +26,6 @@ Section_11　強化学習　!pip install tensorflow==2.2　!pip install keras==2
 Section_12　転移学習　!pip install tensorflow==2.2　!pip install keras==2.3　Reboot
 
 Section_13　[人工知能アプリの開発](https://dashboard.heroku.com/apps/ai-alice-master)  
-## レポジトリ
+## 収納庫
 
 ●[BERT](https://github.com/alicelindel3/bert)　●[ChatGPT](https://github.com/alicelindel3/chatgpt)　●[Image](https://github.com/alicelindel3/image)　●[Kaggle](https://github.com/alicelindel3/kaggle)　●[NLP](https://github.com/alicelindel3/nlp)　●[Novel](https://github.com/alicelindel3/novel)　●[Math](https://github.com/alicelindel3/math)　●[Music](https://github.com/alicelindel3/music)　●[Twitter](https://github.com/alicelindel3/twitter)　●[Webapp](https://github.com/alicelindel3/webapp)
